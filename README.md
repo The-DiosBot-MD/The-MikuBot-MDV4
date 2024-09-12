@@ -36,6 +36,19 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FThe-DiosBot-MD%2FThe-MikuBot-MDV4) 
 
+### *Superiority Pro Hosting 🤖*
+<a href="https://dash.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
+
+<details>
+ <summary><b>:paperclip: Enlaces Importantes</b></summary>
+
+- *Dashboard:* [Aquí](https://store.azuraultra-host.pro)
+- *Grupo - Soporte:* [Aquí](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1Gz)
+- *Canal - Oficial:* [Aquí](https://whatsapp.com/channel/0029VaoRzN0KmCPMFNe3TD1b)
+
+</details>
+------------------
+
 ### ☁️ CORINPLUS HOTS 
 <a href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
 ### Información sobre CorinPlus
