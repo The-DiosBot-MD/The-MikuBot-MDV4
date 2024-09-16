@@ -12,7 +12,7 @@
 
 <a href="https://api.whatsapp.com/send/?phone=595994825505&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<a href="https://api.whatsapp.com/send/?phone=595982216131&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://api.whatsapp.com/send/?phone=8092516349&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `▢ DONAR`
 - SE AGRADECE CUAQLQUIER AYUDA VOLUNTARIA YA SEA CON UN NUMERO PARA EL BOT ETC.
