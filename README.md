@@ -49,21 +49,6 @@
 </details>
 ------------------
 
-### ☁️ CORINPLUS HOTS 
-<a href="https://dash.corinplus.com"><img src="https://qu.ax/ZycD.png" height="125px"></a>
-### Información sobre CorinPlus
-
-- **Dashboard:** [`Aquí`](https://dash.corinplus.com)
-- **Panel:** [`Aquí`](https://panel.corinplus.com)
-- **Estado de servicios:** [`Aquí`](https://status.corinplus.com)
-- **Canal de WhatsApp:** [`Aquí`](https://whatsapp.com/channel/0029VakUvreFHWpyWUr4Jr0g)
-- **Grupo - Soporte:** [`Aquí`](https://chat.whatsapp.com/K235lkvaGvlGRQKYm26xZP)
-- **Contacto:** [`Gata Dios`](https://wa.me/message/B3KTM5XN2JMRD1)
-- **Contacto:** [`elrebelde21`](https://facebook.com/elrebelde21)
-
-- [x] **Configuración** <details><summary>**Ajustes del Servidor - GataBot-MD**</summary><img src="https://telegra.ph/file/5ba9167b88400845635df.jpg"></details>
-----
-
 ### `▢ ACTIVAR EN TERMUX` 
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
@@ -122,7 +107,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 <a href="http://wa.me/595982216131" target="blank"><img src="https://img.shields.io/badge/COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-## `▢ COLABORADORA DEL BOT` 
+## `▢ AGRADECIMIENTOS` 
 <a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
 
 ## `▢ EDITOR & PROPIETARIO DEL BOT` 
