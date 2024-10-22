@@ -35,18 +35,6 @@
 ### `▢ ACTIVAR EN RENDER`
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FThe-DiosBot-MD%2FThe-MikuBot-MDV4) 
-
-### *Superiority Pro Py Hosting 🤖*
-<a href="https://system.py.superiority.pro/login"><img src="https://qu.ax/TiBm.jpg" height="125px"></a>
-
-<details>
- <summary><b>:paperclip: Enlaces Importantes</b></summary>
-
-- *Dashboard:* [Aquí](https://system.py.superiority.pro/)
-- *Grupo - Soporte:* [Aquí](https://chat.whatsapp.com/LbjpDV0KmZ48iHFSy6n1G)
-- *Canal - Oficial:* [Aquí](https://whatsapp.com/channel/0029VaoRzN0KmCPMFNe3T1b)
-
-</details>
 ------------------
 
 ### `▢ ACTIVAR EN TERMUX` 
