@@ -31,7 +31,7 @@ function connect(conn, PORT) {
   });
 
   app.get('*', async (req, res) => {
-    res.json("KATASHIBOT-MD en ejecución");
+    res.json("Bot en ejecución");
   });
 
   server.listen(PORT, async () => {

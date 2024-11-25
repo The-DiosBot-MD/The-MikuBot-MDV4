@@ -1,7 +1,7 @@
 {
-"name": "KatashiBot-MD",
-"version": "1.7.0", 
-"description": "Super Bot WhatsApp",
+"name": "The-MikuBot-MDV4",
+"version": "4.5.0", 
+"description": "WhatsApp bot Corporations",
 "main": "index.js",
 "type": "module",
     
@@ -17,16 +17,16 @@
 "test": "node test.js",
 "test2": "nodemon index.js" },
     
-"homepage": "https://github.com/KatashiFukushima/KatashiBot-MD",
+"homepage": "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4",
 "author": {
-"name": "KatashiFukushima" },
+"name": "The-DiosBot-MD" },
     
 "repository": {
 "type": "git",
-"url": "git+https://github.com/KatashiFukushima/KatashiBot-MD.git" },
+"url": "git+https://github.com/The-DiosBot-MD/The-MikuBot-MDV4.git" },
 
 "bugs": {
-"url": "https://github.com/KatashiFukushima/KatashiBot-MD/issues" },
+"url": "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4/issues" },
 "license": "GPL-3.0-or-later",
 "dependencies": {
 "@whiskeysockets/baileys": "npm:@whiskeysockets/baileys@6.7.2",

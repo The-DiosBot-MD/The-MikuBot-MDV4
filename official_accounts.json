@@ -2,53 +2,53 @@
   "info": {
 
     "accounts": {
-      "youTube": "https://youtube.com/@katashifukushima",
-      "instagram": "https://www.instagram.com/katashi_fukushima",
-      "katashibot_md": "https://github.com/KatashiFukushima/YaemoriBot-MD",
-      "gatabot_md": "https://github.com/KatashiFukushima/KatashiBot_md",
-      "facebook": "https://www.facebook.com/KatashiFukushimaF",
-      "tiktok": "https://www.tiktok.com/@katashi_fukushima",
-      "threads": "https://www.threads.net/@katashi_fukushima",
-      "paypal": "https://paypal.me/KatashiF",
-      "github": "https://github.com/KatashiFukushima",
-      "mail": "katashifukushima23@gmail.com",
-      "all": "https://www.atom.bio/katashifukushima"
+      "youTube": "https://youtube.com/@The-MikuBot-MD",
+      "instagram": "https://www.instagram.com/adri.analegresanchez",
+      "katashibot_md": "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4",
+      "gatabot_md": "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4",
+      "facebook": "https://www.facebook.com/Adrian Alegre Sanchez",
+      "tiktok": "https://www.tiktok.com/@Adrian Alegre Sanchez",
+      "threads": "https://www.threads.net/@AdrianOficial,
+      "paypal": "https://paypal.me/AdrianOficial",
+      "github": "https://github.com/The-DiosBot-MD",
+      "mail": "adrianalegresanchez905@gmail.com",
+      "all": "https://www.atom.bio/The-MikuBot-MD"
     },
 
     "channels": {
-      "channel1": "https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37",
-      "channel2": "https://whatsapp.com/channel/0029Va8GeVFAO7REOj3qnW37",
-      "channel3": "https://whatsapp.com/channel/0029VaefZxt1t90Tn4rCv50X",
-      "channel4": "https://whatsapp.com/channel/0029VaGGynJLY6d43krQYR2g"
+      "channel1": "https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W",
+      "channel2": "https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W",
+      "channel3": "https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W",
+      "channel4": "https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W"
     },
 
     "groups": {
-      "group1": "https://chat.whatsapp.com/Imr4Bo31Z947o1K5VkLgFT",
-      "group2": "https://chat.whatsapp.com/IdhGK1rVSG1IMGwvhrVA8t",
-      "group3": "https://chat.whatsapp.com/Eagxuc4pwKyAN4spnkm8lW",
-      "group4": "https://chat.whatsapp.com/E4ZxJiCYbvsG95fwPfaLj6",
-      "group5": "https://chat.whatsapp.com/Hg4GlAowks9IQ3gnI8ZzB2",
-      "group6": "https://chat.whatsapp.com/Imr4Bo31Z947o1K5VkLgFT"
+      "group1": "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI",
+      "group2": "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI",
+      "group3": "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI",
+      "group4": "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI",
+      "group5": "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI",
+      "group6": "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI"
     },
 
     "collaboration": {
-      "group1": "https://chat.whatsapp.com/GQ82mPnSYnm0XL2hLPk7FV",
-      "group2": "https://chat.whatsapp.com/GrcXB1NINsDAPp4fCVgwfX",
-      "group3": "https://chat.whatsapp.com/Gxpc9XjJ8MALe4bCR3nRtL",
-      "group4": "https://chat.whatsapp.com/FwQDYWZHkli4fwQKEn2ps7"
+      "group1": "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6",
+      "group2": "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6",
+      "group3": "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6",
+      "group4": "https://chat.whatsapp.com/LuD3YzdOjH16LUwPPCVmL6"
     },
 
     "sponsors": {
-      "infinity": "https://dashboard.infinitywa.xyz/",
-      "cafirexos": "https://github.com/GataNina-Li",
-      "vortexus": "https://vortexuscloud.com",
-      "asif": "https://t.me/Asifhosting"
+      "infinity": "https://dahs.hostingpy.shop/",
+      "cafirexos": "https://github.com/The-DiosBot-MD",
+      "vortexus": "https://dahs.hostingpy.shop",
+      "asif": "https://dahs.hostingpy.shop"
     },
 
     "others": {
-      "assistance_num": "https://wa.me/51948705559",
-      "yt_vid": "https://www.youtube.com/shorts/ZLJYDUM6vSY",
-      "group_support": "https://chat.whatsapp.com/Imr4Bo31Z947o1K5VkLgFT"
+      "assistance_num": "https://wa.me/595976126756",
+      "yt_vid": "https://www.youtube.com/shorts/ZLJYDUM6Y",
+      "group_support": "https://chat.whatsapp.com/Hg4Akz1Autl7AiPaY9vyod"
     }
 
   }

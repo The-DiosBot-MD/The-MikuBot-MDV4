@@ -1,195 +1,104 @@
-# KatashiBot-MD
-> <b>🚀 VERSIÓN 3.0</b>
+# `The-MikuBot-MDV4` 
 
-<p align="center"> 
-<a href="https://github.com/KatashiFukushima"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=B1F733&width=435&lines=KatashiBot-MD;Disfruta+del+bot.+%E2%9A%A1" height="90px"></a> 
-</p>
+### `▢ CUENTA OFICIAL`
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
+[  ] https://www.instagram.com/@adri.analegresanchez
 
-<p align="center">
-<img src="https://telegra.ph/file/86afc8b4881e2013cded4.jpg" alt="KatashiBot-MD" width="900"/>
-</p>
+### `▢ GRUPO OFICIAL`
 
-> 𝑴𝑼𝑪𝑯𝑨𝑺 𝑮𝑹𝑨𝑪𝑰𝑨𝑺 𝑷𝑶𝑹 𝑷𝑹𝑬𝑭𝑬𝑹𝑰𝑹𝑵𝑶𝑺 😎✨
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
+<a href="https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI" target="blank"><img src="https://img.shields.io/badge/GRUPO_DE_SOPORTE_(ES)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
-<p align="center">
-<a href="#"><img title="KatashiBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APÓYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>  
+ ### `▢ BOTS OFICIALES`
 
-<p align="center">
-<a href="#"><img title="KatashiBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
-</p>
+<a href="https://api.whatsapp.com/send/?phone=595994825505&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_1_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-<p align="center">   
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/KatashiFukushima/KatashiBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/KatashiFukushima/KatashiBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/KatashiFukushima/KatashiBot-MD?label=Stars&color=yellow&style=flat-square"></a>
-</p>
+<a href="https://api.whatsapp.com/send/?phone=595982216131&text=/estado&type=phone_number&app_absent=0" target="blank"><img src="https://img.shields.io/badge/BOT_OFICIAL_2_(INACTIVO)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### Cuentas Oficiales:
-> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de Katashi Fukushima. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestro canal ahora mismo!
+### `▢ DONAR`
+- SE AGRADECE CUAQLQUIER AYUDA VOLUNTARIA YA SEA CON UN NUMERO PARA EL BOT ETC.
 
-<a href="https://www.atom.bio/katashifukushima">
-<img src="https://img.shields.io/badge/Redes_Sociales-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
-</a>
+### `▢ PLUGINS`
+- TIENES IDEAS DE PLUGINS O QUIERES OBTENER MAS PLUGINS? DA CLICK EN [https://github.com/theh2so4/Mystic-Plugins](https://github.com/theh2so4/Mystic-Plugins)
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-
-### 🌟 (OPCIÓN 1) INSTALACIÓN AUTOMÁTICA POR TERMUX 🫰
-[![blog](https://img.shields.io/badge/Instalacion-Automatica-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/shorts/ZLJYDUM6vSY)
-> **Note** Comandos para instalar de forma automática en Termux  
-```bash
-termux-setup-storage
-```
-```bash
-apt update -y && yes | apt upgrade && pkg install -y bash wget mpv && wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/katashi.sh | bash
-```
-```js
-// PERSONALIZAR INSTALACIÓN AUTOMÁTICA (En caso de una Bifurcación)
-// Parámetros editables
-
-// REFERENCIA
-"wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/katashi.sh | bash"
-
-// PARÁMETROS QUE PUEDE SER MODIFICADOS --> "[...]"
-"wget -O - https://raw.githubusercontent.com/[usuario]/[repositorio]/[rama]/katashi.sh | bash"
-```
-#### MODIFICAR ARCHIVO [`katashi.sh`](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/kata.sh)
-```js
-//LÍNEAS A MODIFICAR
-205 --> "git clone https://github.com/[user]/[repositorio].git"
-//Ejemplo: git clone https://github.com/KatashiFukushima/KatashiBot-MD.git
-
-209 --> "cd [repositorio]"
-//Ejemplo: cd KatashiBot-MD
-
-//Una vez hecho estos cambios ejecute los nuevos comandos en Termux
-```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
+### `▢ AJUSTES`
+- CLONAR EL REPOSITORIO [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV4/fork)
+- CAMBIAR NÚMERO DEL PROPIETARIO(A) [Aqui](https://github.com/The-DiosBot-MD/The-MikuBot-MDV4/blob/master/config.js)
   
-### 🪄 (OPCIÓN 2) INSTALACIÓN MANUAL POR TERMUX - GITHUB 
-> **Note** Comandos para instalar de forma manual
+### `▢ ACTIVAR EN KOYEB`
+
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=https://github.com/The-DiosBot-MD/The-MikuBot-MDV4&branch=master&name=mysticbot)
+  
+### `▢ ACTIVAR EN REPLIT`
+
+[![Run on Repl.it](https://repl.it/badge/github/The-DiosBot-MD/The-MikuBot-MDV4)](https://repl.it/github/The-DiosBot-MD/The-MikuBot-MDV4) 
+  
+### `▢ ACTIVAR EN RENDER`
+
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://dashboard.render.com/blueprint/new?repo=https%3A%2F%2Fgithub.com%2FThe-DiosBot-MD%2FThe-MikuBot-MDV4) 
+------------------
+
+### `▢ ACTIVAR EN TERMUX` 
+- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
-termux-setup-storage
+cd && termux-setup-storage
 ```
+
 ```bash
-apt update
+apt-get update -y && apt-get upgrade -y
 ```
+
 ```bash
-apt upgrade
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
 ```
+
 ```bash
-pkg install -y git nodejs ffmpeg imagemagick yarn
+git clone https://github.com/The-DiosBot-MD/The-MikuBot-MDV4.git && cd The-MikuBot-MDV4
 ```
-```bash
-git clone https://github.com/KatashiFukushima/KatashiBot-MD
-```
-```bash
-cd KatashiBot-MD
-```
+
 ```bash
 yarn install
 ```
+
 ```bash
 npm install
 ```
+
+```bash
+npm update
+```
+
 ```bash
 npm start
 ```
-> **Warning** Si aparece (Y/I/N/O/D/Z) [default=N] ? use la letra "y" + "ENTER" para continuar con la instalación 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
-### 📁 (OPCIÓN 3) INSTALACIÓN POR TERMUX - ARCHIVOS
-> **Note** Descargué y Descomprime
-### [`KatashiBot-MD ~ Archivos`](https://github.com/KatashiFukushima/KatashiBot-MD/archive/refs/heads/master.zip)
-[![blog](https://img.shields.io/badge/NO_TUTORIAL-FF0000?style=for-the-badge&logo=youtube&logoColor=white)
-](https://www.youtube.com/shorts/ZLJYDUM6vSY)
+
+### `▢ ACTIVAR EN CASO DE DETENERSE EN TERMUX`
 ```bash
-termux-setup-storage
-apt update
-apt upgrade
-pkg install -y git nodejs ffmpeg imagemagick yarn
-cd storage/downloads/KatashiBot-MD-master/KatashiBot-MD-master 
-yarn install
-npm install
-npm start
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd The-MikuBot-MDV4
+> npm start
 ```
-* #### APLICACIÓN RECOMENDADA PARA [`DESCOMPRIMIR`](https://play.google.com/store/apps/details?id=com.rarlab.rar)
-* #### APLICACIÓN RECOMENDADA PARA EDITAR [`NÚMERO DE OWNER`](https://play.google.com/store/apps/details?id=com.rhmsoft.code)
-> **Note** Guardar los archivos en la ubicación: storage/downloads/KatashiBot-MD-master/KatashiBot-MD-master   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
-### 🚀 USAR KATASHIBOT 24/7 EN TERMUX 
-> Ejecutar estos comandos dentro de la carpeta KatashiBot-MD
+
+### `▢ OBTENER OTRO CODIGO QR EN TERMUX`
+- DETEN EL BOT, HAZ CLICK EN EL SIMBOLO CTRL DE TERMUX MAS Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A The-MikuBot-MDV4 $  
 ```bash
-termux-wake-lock && npm i -g pm2 && pm2 start index.js && pm2 save && pm2 logs 
-``` 
-#### ⬇️ Opciones Disponibles
-> **Warning** Esto eliminará todo el historial que hayas establecido con PM2:
-```bash 
-pm2 delete index
-``` 
-> Si tienes cerrado Termux y quiere ver de nuevo la ejecución use:
-```bash 
-pm2 logs 
-``` 
-> Si desea detener la ejecución de Termux use:
-```bash 
-pm2 stop index
-``` 
-> Si desea iniciar de nuevo la ejecución de Termux use:
-```bash 
-pm2 start index
-``` 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
-### 🥷🏻 ACTUALIZAR KATASHIBOT
-> **Note** Comandos para actualizar KatashiBot-MD de forma automática
-```bash
-grep -q 'bash\|wget' <(dpkg -l) || apt install -y bash wget && wget -O - https://raw.githubusercontent.com/KatashiFukushima/KatashiBot-MD/master/update.sh | bash 
+ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+> cd 
+> cd The-MikuBot-MDV4
+> rm -rf MikuBotSession
+> npm start
 ```
-#### Para que no pierda su progreso en KatashiBot, estos comandos realizarán un respaldo de su `database.json` y se agregará a la versión más reciente.
-> **Warning** Estos comandos solo funcionan para TERMUX, REPLIT, LINUX                           
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
+ ### `▢ DUDAS SOBRE EL BOT?, CONTACTANOS`
+<a href="http://wa.me/595994836199" target="blank"><img src="https://img.shields.io/badge/Adrian Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595986637644" target="blank"><img src="https://img.shields.io/badge/COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595971253989" target="blank"><img src="https://img.shields.io/badge/COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595982216131" target="blank"><img src="https://img.shields.io/badge/COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/595994825505" target="blank"><img src="https://img.shields.io/badge/COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
+## `▢ AGRADECIMIENTOS` 
+<a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
 
-> Recuerda leer la **[Política de KatashiBot. 🥷](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/terms.md)** antes de hacer algo con este repositorio. 
+## `▢ EDITOR & PROPIETARIO DEL BOT` 
+<a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-  
-### 💠 [`IDIOMAS DISPONIBLES PARA KATASHIBOT`](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/config.js) 
-#### 🌐 Español  
-#### 🌐 Inglés (English) 
-#### 🌐 Portugués (Português)
-#### 🌐 Indonesio (Bahasa Indonesia) 
-#### 🌐 Árabe (عرب)
-#### 🌐 Hindi (Indian Language)
-- [x] Ejemplo <details><summary>Idioma</summary><img src="https://i.imgur.com/ZTwOGkT.jpg"></details>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-<p align="center">
-
-### 🌟 DESARROLLADORES
-<a href="https://github.com/KatashiFukushima/KatashiBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=KatashiFukushima/KatashiBot-MD" /> 
-</a>
-
-### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/GataNina-Li.png?size=60)](https://github.com/GataNina-Li) 
-
-### 🌟 CREADOR 
-[![KatashiFukushima](https://github.com/KatashiFukushima.png?size=100)](https://github.com/KatashiFukushima) 
-> Copyright (c) 2024 **[KatashiFukushima](https://github.com/KatashiFukushima/KatashiBot-MD/blob/master/LICENSE)**.
+`The-MikuBot-MDV4 - By The-DiosBot-MD`

@@ -4,8 +4,8 @@
  
 | USUARIO          |   INICIO                | FIN    | ESTADO
 | ------------     | ------------            | ------------| ------------
-| [**Desconocido**](+51977382134)        | `14 Abril` | `18 Mayo` | ❌
-| [**ANIIIIII**](+56)        | `1 Mayo` | `1 Enero` | ✅
-| [**Tenshi_senpai**](+50255295754)        | `3 Junio` | `8 Julio` | ❌
+| [**AdrianOficial**](+595976126756)        | `24 Noviembre` | `24 Marzo` | ❌
+| [**AAS**](+595)        | `4 Jinio` | `4 Julio` | ✅
+| [**Yoshi**](+595994836199)        | `8 Agosto` | `8 Agosto` | ❌
 | ⚪        | ⚪               |  ⚪ | ⚪
 

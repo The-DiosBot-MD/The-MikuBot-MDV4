@@ -20,3 +20,4 @@ EXPOSE 5000
 
 #Kurt18: Iniciará con el QR
 CMD ["npm", "run", "qr"]
+
