@@ -129,6 +129,8 @@ global.vs = "4.5.1"
 global.vsJB = "2.5 (Beta)"
 global.gt = "𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃🥀"
 global.repo = "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4"
+global.ins = "https://www.instagram.com/adri.analegresanchez"
+global.you = "https://www.youtube.com/@The-MikuBot-MD"
 
 fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error))
 
