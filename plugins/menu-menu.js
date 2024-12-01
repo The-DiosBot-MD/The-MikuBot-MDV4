@@ -215,30 +215,18 @@ let menu = `> ${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.
 > ┃☭│
 > ┃☭╞════════════
 > ┃☭╒════════════
-┃☭│ > 💫 *INFORMACIÓN* 💫\n
+> ┃☭│ > 𓇽 *𝐈𝐧𝐟𝐨* 𓇽\n
 ${generateCommand(commandsInfo, usedPrefix)}
-
-╒════════════
 > 💻 *COMANDOS - SUB BOT*\n
 ${generateCommand(commandsJadiBot, usedPrefix)}
-
-╒═══════════
 > 🆘 *REPORTAR COMANDOS* 🆘\n
 ${generateCommand(commandsReport, usedPrefix)}
-
-╒════════════
 > 🎟️ *SER PREMIUM* 🎟️\n
 ${generateCommand(commandsPrem, usedPrefix)}
-
-╒════════════
 > 🎡 *JUEGOS* 🎡\n
 ${generateCommand(commandsGames, usedPrefix)}
-
-╒════════════
 > ✨ *IA* ✨\n
 ${generateCommand(commandsAI, usedPrefix)}
-
-╒════════════
 > ⚙️ *AJUSTES* ⚙️
 ${m.isGroup ? `_✅ ➤ Activado_
 _❌ ➤ Desactivado_` : `Para ver la configuración completa sólo use: *${usedPrefix}on* o *${usedPrefix}off*`}\n
@@ -526,7 +514,7 @@ ${generateCommand(commandsConfig, usedPrefix).replace(/≡/g, '𖡡')}
 ┃👑 _.listprem_
 ┃👑 _.añadirdiamantes *@tag cantidad*_
 ┃👑 _.añadirxp *@tag cantidad*_
-┃☭│ ➤ _${usedPrefix}añadirkatacoins *@tag cantidad*_
+┃👑_${usedPrefix}añadircoins *@tag cantidad*_
 ◟ ══════════⊷❍
 `.trim()
 //await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 🥷 𝗦𝘂𝗽𝗲𝗿 𝗞𝗮𝘁𝗮𝘀𝗵𝗶𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu }}})
