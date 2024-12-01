@@ -1,6 +1,7 @@
+//Creditos A elrebelde21
 let handler = async (m, { conn, args, usedPrefix, command }) => {
 
-if (!m.quoted && !m.mentionedJid?.length && !args[0]) return m.reply(`⚠️ Responde al mensaje que quiere eliminar pelutudito.`) 
+if (!m.quoted && !m.mentionedJid?.length && !args[0]) return m.reply(`⚠️ Responde al mensaje que quiere eliminar culero.`) 
 try {
 if (m.quoted) {
 let delet = m.quoted.sender;
@@ -40,7 +41,7 @@ console.error(err);
 }};
 handler.help = ['delete *@user* | +number'];
 handler.tags = ['group'];
-handler.command = /^del(ete)?$/i;
+handler.command = /^eliminarmen(ete)?$/i;
 handler.group = true; 
 handler.admin = true; 
 handler.botAdmin = true; 
