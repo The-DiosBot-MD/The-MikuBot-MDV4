@@ -225,9 +225,10 @@ ${generateCommand(commandsReport, usedPrefix)}
 ${generateCommand(commandsPrem, usedPrefix)}
 > 🎡 *JUEGOS* 🎡\n
 ${generateCommand(commandsGames, usedPrefix)}
-> ✨ *IA* ✨\n
-${generateCommand(commandsAI, usedPrefix)}
-
+> ╭━    〔 𝑰𝒏𝒕𝒆𝒍𝒊𝒈𝒆𝒏𝒄𝒊𝒂 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 〕*
+┃🦋 _${usedPrefix}okgoogle *texto*_
+┃🦋 _${usedPrefix}siri *texto*_
+┃🦋 _${usedPrefix}bixby *texto*_
 > ╭━      [ 𝑪𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒄𝒊𝒐𝒏 ]*
 ┃🔧 _${usedPrefix}on *:* off *welcome*_
 ┃🔧 _${usedPrefix}on *:* off *detect*_
@@ -559,7 +560,7 @@ console.log(e)}
 
 //handler.command = /^(menu|menú|memu|memú|help|info|comandos|2help|menu1.2|ayuda|commands|commandos|menucompleto|allmenu|allm|m|\?)$/i
 handler.command = /^(comandos|menu|\?)$/i
-handler.register = true
+handler.register = false
 export default handler
 
 const more = String.fromCharCode(8206)
