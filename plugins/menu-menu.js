@@ -215,16 +215,74 @@ let menu = `> ${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.
 > ┃☭│
 > ┃☭╞════════════
 > ┃☭╒════════════
-> ┃☭│ > 𓇽 *𝐈𝐧𝐟𝐨* 𓇽\n
-${generateCommand(commandsInfo, usedPrefix)}
-> 💻 *COMANDOS - SUB BOT*\n
-${generateCommand(commandsJadiBot, usedPrefix)}
-> 🆘 *REPORTAR COMANDOS* 🆘\n
-${generateCommand(commandsReport, usedPrefix)}
-> 🎟️ *SER PREMIUM* 🎟️\n
-${generateCommand(commandsPrem, usedPrefix)}
-> 🎡 *JUEGOS* 🎡\n
-${generateCommand(commandsGames, usedPrefix)}
+> ┃☭│ > 𓇽 *𝐈𝐧𝐟𝐨* 𓇽
+┃🌺 _${usedPrefix}cuentas_
+┃🌺 _${usedPrefix}grupos_
+┃🌺 _${usedPrefix}donar_
+┃🌺 _${usedPrefix}listagrupos_
+┃🌺 _${usedPrefix}estado_
+┃🌺 _${usedPrefix}infobot_
+┃🌺 _${usedPrefix}instalarbot_
+┃🌺 _${usedPrefix}owner_
+┃🌺 _${usedPrefix}velocidad_
+┃🌺 _Bot_ 
+┃🌺 _términos y condiciones_
+> ╭━         *〔 𝑭𝒖𝒏𝒄𝒊𝒐𝒏𝒆𝒔 𝑵𝒖𝒆𝒗𝒂𝒔 〕*
+┃⚠️ _${usedPrefix}killmenu_
+┃⚠️ _${usedPrefix}histori_
+> ╭━         *〔 𝑭𝒖𝒏𝒄𝒊𝒐𝒏 𝒅𝒆 𝒔𝒆𝒓𝒃𝒐𝒕 〕*
+┃🖥 _${usedPrefix}serbot_
+┃🖥 _${usedPrefix}serbot --code_
+┃🖥 _${usedPrefix}bots_
+┃🖥 _${usedPrefix}detener_
+┃🖥 _${usedPrefix}bcbot_
+> ╭━         *〔 𝑹𝒆𝒑𝒐𝒓𝒕𝒆𝒔 𝒐 𝑭𝒂𝒍𝒍𝒐𝒔 〕*
+┃ 📮 _${usedPrefix}reporte *texto*_
+┃ 📮 _${usedPrefix}report *texto*_
+> ╭━          *〔 𝑼𝒏𝒆 𝒂𝒍 𝒃𝒐𝒕 𝒂 𝒕𝒖 𝒈𝒓𝒖𝒑𝒐 〕 *
+┃🌟 _${usedPrefix}botemporal *enlace* *cantidad*_
+> ╭━          *〔 𝑷𝒓𝒆𝒎𝒊𝒖𝒏 〕*
+┃🎫 _${usedPrefix}listapremium_
+┃🎫 _${usedPrefix}pase premium_
+┃🎫 _${usedPrefix}pass premium_
+> ╭━         *〔 𝑱𝒖𝒆𝒈𝒐𝒔 〕*
+┃🤹‍ _${usedPrefix}mates_
+┃🤹‍ _${usedPrefix}lanzar *cara* o *cruz*
+┃🤹‍ _${usedPrefix}ppt *piedra,papel,tijera*_
+┃🤹‍ _${usedPrefix}tictactoe_
+┃🤹‍ _${usedPrefix}deltictactoe_
+┃🤹‍ _${usedPrefix}topgays_
+┃🤹‍ _${usedPrefix}topotakus_
+┃🤹‍ _${usedPrefix}toppajer@s_
+┃🤹‍ _${usedPrefix}topput@s_
+┃🤹‍ _${usedPrefix}topintegrantes_
+┃🤹‍ _${usedPrefix}toplagrasa_
+┃🤹‍ _${usedPrefix}toppanafrescos_
+┃🤹‍ _${usedPrefix}topshiposters_
+┃🤹‍ _${usedPrefix}toplindos_
+┃🤹‍ _${usedPrefix}topfamosos_
+┃🤹‍ _${usedPrefix}topparejas_
+┃🤹‍ _${usedPrefix}gay *@tag*_
+┃🤹‍ _${usedPrefix}gay2 *nombre : @tag*_
+┃🤹‍ _${usedPrefix}lesbiana *nombre : @tag*_
+┃🤹‍ _${usedPrefix}manca *nombre : @tag*_
+┃🤹‍ _${usedPrefix}manco *nombre : @tag*_
+┃🤹‍ _${usedPrefix}pajero *nombre : @tag*_
+┃🤹‍ _${usedPrefix}pajera *nombre : @tag*_
+┃🤹‍ _${usedPrefix}puto *nombre : @tag*_
+┃🤹‍ _${usedPrefix}puta *nombre : @tag*_
+┃🤹‍ _${usedPrefix}rata *nombre : @tag*_
+┃🤹‍ _${usedPrefix}love *nombre : @tag*_
+┃🤹‍ _${usedPrefix}doxear *nombre : @tag*_
+┃🤹‍ _${usedPrefix}doxxeame_
+┃🤹‍ _${usedPrefix}pregunta *texto*_
+┃🤹‍ _${usedPrefix}apostar | slot *cantidad*_
+┃🤹‍ _${usedPrefix}formarpareja_
+┃🤹‍ _${usedPrefix}dado_
+┃🤹‍ _${usedPrefix}verdad_
+┃🤹‍ _${usedPrefix}reto_
+┃🤹‍ _${usedPrefix}multijuegos_
+┃🤹‍ _${usedPrefix}juegos_
 > ╭━    〔 𝑰𝒏𝒕𝒆𝒍𝒊𝒈𝒆𝒏𝒄𝒊𝒂 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 〕*
 ┃🦋 _${usedPrefix}okgoogle *texto*_
 ┃🦋 _${usedPrefix}siri *texto*_
