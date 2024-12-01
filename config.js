@@ -131,6 +131,8 @@ global.gt = "𝐓𝐡𝐞-𝐌𝐢𝐤𝐮𝐁𝐨𝐭-𝐌𝐃🥀"
 global.repo = "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4"
 global.ins = "https://www.instagram.com/adri.analegresanchez"
 global.you = "https://www.youtube.com/@The-MikuBot-MD"
+global.gofc = "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI"
+global.cofc = "
 
 fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error))
 
