@@ -132,7 +132,8 @@ global.repo = "https://github.com/The-DiosBot-MD/The-MikuBot-MDV4"
 global.ins = "https://www.instagram.com/adri.analegresanchez"
 global.you = "https://www.youtube.com/@The-MikuBot-MD"
 global.gofc = "https://chat.whatsapp.com/C92isvspFcXCtqv2PqCfHI"
-global.cofc = "
+global.cofc = "https://whatsapp.com/channel/0029VaGt7Uk6WaKkEDZUh43W"
+global.host = "https://dahs.hostingpy.shop"
 
 fetchDataAndProcess().catch(error => console.error('Ocurrió un error:', error))
 
