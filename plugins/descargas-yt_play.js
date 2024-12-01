@@ -209,6 +209,7 @@ let random = url[0];
 let getAudio = await ytMp3(random);
 resolve(getAudio)}).catch(reject)})};
 
+
 async function ytPlayVid(query) {
 return new Promise((resolve, reject) => {
 yts(query).then(async(getData) => {
