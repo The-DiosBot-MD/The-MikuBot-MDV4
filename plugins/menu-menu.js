@@ -215,106 +215,34 @@ let menu = `> ${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.
 > ┃☭│
 > ┃☭╞════════════
 > ┃☭╒════════════
-> ╭━         *᯾𝑰𝒏𝒇𝒐 𝒅𝒆𝒍 𝒃𝒐𝒕᯾*
-┃🌺 _.cuentas_
-┃🌺 _.grupos_
-┃🌺 _.donar_
-┃🌺 _.listagrupos_
-┃🌺 _.estado_
-┃🌺 _.infobot_
-┃🌺 _.instalarbot_
-┃🌺 _.owner_
-┃🌺 _.velocidad_
-┃🌺 _Bot_ 
-┃🌺 _términos y condiciones_
-> ╭━         *〔 𝑭𝒖𝒏𝒄𝒊𝒐𝒏𝒆𝒔 𝑵𝒖𝒆𝒗𝒂𝒔 〕*
-┃⚠️ _.killmenu_
-┃⚠️ _.histori_
-> ╭━         *〔 𝑭𝒖𝒏𝒄𝒊𝒐𝒏 𝒅𝒆 𝒔𝒆𝒓𝒃𝒐𝒕 〕*
-┃🖥 _.serbot_
-┃🖥 _.serbot --code_
-┃🖥 _.bots_
-┃🖥 _.detener_
-┃🖥 _.bcbot_
-> ╭━         *〔 𝑹𝒆𝒑𝒐𝒓𝒕𝒆𝒔 𝒐 𝑭𝒂𝒍𝒍𝒐𝒔 〕*
-┃ 📮 _.reporte *texto*_
-┃ 📮 _.report *texto*_
-> ╭━          *〔 𝑼𝒏𝒆 𝒂𝒍 𝒃𝒐𝒕 𝒂 𝒕𝒖 𝒈𝒓𝒖𝒑𝒐 〕 *
-┃🌟 _.botemporal *enlace* *cantidad*_
-> ╭━          *〔 𝑷𝒓𝒆𝒎𝒊𝒖𝒏 〕*
-┃🎫 _.listapremium_
-┃🎫 _.pase premium_
-┃🎫 _.pass premium_
-> ╭━         *〔 𝑱𝒖𝒆𝒈𝒐𝒔 〕*
-┃🤹‍ _.mates_
-┃🤹‍ _.lanzar *cara* o *cruz*
-┃🤹‍ _.ppt *piedra,papel,tijera*_
-┃🤹‍ _.tictactoe_
-┃🤹‍ _.deltictactoe_
-┃🤹‍ _.topgays_
-┃🤹‍ _.topotakus_
-┃🤹‍ _.toppajer@s_
-┃🤹‍ _.topput@s_
-┃🤹‍ _.topintegrantes_
-┃🤹‍ _.toplagrasa_
-┃🤹‍ _.toppanafrescos_
-┃🤹‍ _.topshiposters_
-┃🤹‍ _.toplindos_
-┃🤹‍ _.topfamosos_
-┃🤹‍ _.topparejas_
-┃🤹‍ _.gay *@tag*_
-┃🤹‍ _.gay2 *nombre : @tag*_
-┃🤹‍ _.lesbiana *nombre : @tag*_
-┃🤹‍ _.manca *nombre : @tag*_
-┃🤹‍ _.manco *nombre : @tag*_
-┃🤹‍ _.pajero *nombre : @tag*_
-┃🤹‍ _.pajera *nombre : @tag*_
-┃🤹‍ _.puto *nombre : @tag*_
-┃🤹‍ _.puta *nombre : @tag*_
-┃🤹‍ _.rata *nombre : @tag*_
-┃🤹‍ _.love *nombre : @tag*_
-┃🤹‍ _.doxear *nombre : @tag*_
-┃🤹‍ _.doxxeame_
-┃🤹‍ _.pregunta *texto*_
-┃🤹‍ _.apostar | slot *cantidad*_
-┃🤹‍ _.formarpareja_
-┃🤹‍ _.dado_
-┃🤹‍ _.verdad_
-┃🤹‍ _.reto_
-┃🤹‍ _.multijuegos_
-┃🤹‍ _.juegos_
-> ╭━    〔 𝑰𝒏𝒕𝒆𝒍𝒊𝒈𝒆𝒏𝒄𝒊𝒂 𝑨𝒓𝒕𝒊𝒇𝒊𝒄𝒊𝒂𝒍 〕*
-┃🦋 _.okgoogle *texto*_
-┃🦋 _.siri *texto*_
-┃🦋 _.bixby *texto*_
-> ╭━      [ 𝑪𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒄𝒊𝒐𝒏 ]*
-┃🔧 _.on *:* off *welcome*_
-┃🔧 _.on *:* off *detect*_
-┃🔧 _.on *:* off *autolevelup*_
-┃🔧 _.on *:* off *restrict*_
-┃🔧 _.on *:* off *anticall*_
-┃🔧 _.on *:* off *public*_
-┃🔧 _.on *:* off *autoread*_
-┃🔧 _.on *:* off *temporal*_
-┃🔧 _.on *:* off *stickers*_
-┃🔧 _.on *:* off *autosticker*_
-┃🔧 _.on *:* off *reaction*_
-┃🔧 _.on *:* off *audios*_
-┃🔧 _.on *:* off *modohorny*_
-┃🔧 _.on *:* off *antitoxic*_
-┃🔧 _.on *:* off *antiviewonce*_
-┃🔧 _.on *:* off *antidelete*_
-┃🔧 _.on *:* off *antifake*_
-┃🔧 _.on *:* off *antilink*_
-┃🔧 _.on *:* off *antilink2*_
-┃🔧 _.on *:* off *antitiktok_
-┃🔧 _.on *:* off *antiyoutube*_
-┃🔧 _.on *:* off *antitelegram*_
-┃🔧 _.on *:* off *antifacebook*_
-┃🔧 _.on *:* off *antinstagram*_
-┃🔧 _.on *:* off *antitwitter*_
-┃🔧 _.on *:* off *pconly*_
-┃🔧 _.on *:* off *gconly*_
+┃☭│ > 💫 *INFORMACIÓN* 💫\n
+${generateCommand(commandsInfo, usedPrefix)}
+
+╒════════════
+> 💻 *COMANDOS - SUB BOT*\n
+${generateCommand(commandsJadiBot, usedPrefix)}
+
+╒═══════════
+> 🆘 *REPORTAR COMANDOS* 🆘\n
+${generateCommand(commandsReport, usedPrefix)}
+
+╒════════════
+> 🎟️ *SER PREMIUM* 🎟️\n
+${generateCommand(commandsPrem, usedPrefix)}
+
+╒════════════
+> 🎡 *JUEGOS* 🎡\n
+${generateCommand(commandsGames, usedPrefix)}
+
+╒════════════
+> ✨ *IA* ✨\n
+${generateCommand(commandsAI, usedPrefix)}
+
+╒════════════
+> ⚙️ *AJUSTES* ⚙️
+${m.isGroup ? `_✅ ➤ Activado_
+_❌ ➤ Desactivado_` : `Para ver la configuración completa sólo use: *${usedPrefix}on* o *${usedPrefix}off*`}\n
+${generateCommand(commandsConfig, usedPrefix).replace(/≡/g, '𖡡')}
 > ╭━      *〔 𝑮𝒓𝒖𝒑𝒐𝒔-𝑹𝒆𝒔𝒖𝒎𝒆𝒏 〕*
 ┃🌼 _.configuracion_
 ┃🌼 _.settings_
@@ -598,8 +526,8 @@ let menu = `> ${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.
 ┃👑 _.listprem_
 ┃👑 _.añadirdiamantes *@tag cantidad*_
 ┃👑 _.añadirxp *@tag cantidad*_
-┃👑 _.añadircoins *@tag cantidad*_
-> *╰━━━━━━━━━━━━⬣
+┃☭│ ➤ _${usedPrefix}añadirkatacoins *@tag cantidad*_
+◟ ══════════⊷❍
 `.trim()
 //await conn.sendFile(m.chat, gataImg, 'lp.jpg', menu, fkontak, false, { contextInfo: {mentionedJid, externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, title: gt, body: ' 🥷 𝗦𝘂𝗽𝗲𝗿 𝗞𝗮𝘁𝗮𝘀𝗵𝗶𝗕𝗼𝘁-𝗠𝗗 - 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽 ', previewType: 0, thumbnail: imagen4, sourceUrl: redesMenu }}})
 //conn.sendFile(m.chat, gataVidMenu.getRandom(), 'gata.mp4', menu, fkontak)
