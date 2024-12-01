@@ -98,6 +98,8 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ## `▢ AGRADECIMIENTOS` 
 <a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="GataNina-Li"/></a>
 
+<a href="https://github.com/KatashiFukushima"><img src="https://github.com/KatashiFukushima.png" width="100" height="100" alt="KatashiFukushima"/></a>
+
 ## `▢ EDITOR & PROPIETARIO DEL BOT` 
 <a href="https://github.com/The-DiosBot-MD"><img src="https://github.com/The-DiosBot-MD.png" width="250" height="250" alt="The-DiosBot-MD"/></a>
   
