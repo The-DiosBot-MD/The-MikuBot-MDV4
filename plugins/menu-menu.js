@@ -227,10 +227,35 @@ ${generateCommand(commandsPrem, usedPrefix)}
 ${generateCommand(commandsGames, usedPrefix)}
 > ✨ *IA* ✨\n
 ${generateCommand(commandsAI, usedPrefix)}
-> ⚙️ *AJUSTES* ⚙️
-${m.isGroup ? `_✅ ➤ Activado_
-_❌ ➤ Desactivado_` : `Para ver la configuración completa sólo use: *${usedPrefix}on* o *${usedPrefix}off*`}\n
-${generateCommand(commandsConfig, usedPrefix).replace(/≡/g, '𖡡')}
+
+> ╭━      [ 𝑪𝒐𝒏𝒇𝒊𝒈𝒖𝒓𝒂𝒄𝒊𝒐𝒏 ]*
+┃🔧 _${usedPrefix}on *:* off *welcome*_
+┃🔧 _${usedPrefix}on *:* off *detect*_
+┃🔧 _${usedPrefix}on *:* off *autolevelup*_
+┃🔧 _${usedPrefix}on *:* off *restrict*_
+┃🔧 _${usedPrefix}on *:* off *anticall*_
+┃🔧 _${usedPrefix}on *:* off *public*_
+┃🔧 _${usedPrefix}on *:* off *autoread*_
+┃🔧 _${usedPrefix}on *:* off *temporal*_
+┃🔧 _${usedPrefix}on *:* off *stickers*_
+┃🔧 _${usedPrefix}on *:* off *autosticker*_
+┃🔧 _${usedPrefix}on *:* off *reaction*_
+┃🔧 _${usedPrefix}on *:* off *audios*_
+┃🔧 _${usedPrefix}on *:* off *modohorny*_
+┃🔧 _${usedPrefix}on *:* off *antitoxic*_
+┃🔧 _${usedPrefix}on *:* off *antiviewonce*_
+┃🔧 _${usedPrefix}on *:* off *antidelete*_
+┃🔧 _${usedPrefix}on *:* off *antifake*_
+┃🔧 _${usedPrefix}on *:* off *antilink*_
+┃🔧 _${usedPrefix}on *:* off *antilink2*_
+┃🔧 _${usedPrefix}on *:* off *antitiktok_
+┃🔧 _${usedPrefix}on *:* off *antiyoutube*_
+┃🔧 _${usedPrefix}on *:* off *antitelegram*_
+┃🔧 _${usedPrefix}on *:* off *antifacebook*_
+┃🔧 _${usedPrefix}on *:* off *antinstagram*_
+┃🔧 _${usedPrefix}on *:* off *antitwitter*_
+┃🔧 _${usedPrefix}on *:* off *pconly*_
+┃🔧 _${usedPrefix}on *:* off *gconly*_
 > ╭━      *〔 𝑮𝒓𝒖𝒑𝒐𝒔-𝑹𝒆𝒔𝒖𝒎𝒆𝒏 〕*
 ┃🌼 _.configuracion_
 ┃🌼 _.settings_
