@@ -558,7 +558,7 @@ console.log(e)}
 }
 
 //handler.command = /^(menu|menú|memu|memú|help|info|comandos|2help|menu1.2|ayuda|commands|commandos|menucompleto|allmenu|allm|m|\?)$/i
-handler.command = /^(menucompleto|allmenu|\?)$/i
+handler.command = /^(comandos|menu|\?)$/i
 handler.register = true
 export default handler
 
