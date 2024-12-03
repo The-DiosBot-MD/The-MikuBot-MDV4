@@ -44,6 +44,7 @@ handler.tags = ['group'];
 handler.command = /^eliminarmen(ete)?$/i;
 handler.group = true; 
 handler.admin = true; 
+handler.rowner = true;
 handler.botAdmin = true; 
 handler.register = true;
 
